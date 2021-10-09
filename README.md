@@ -11,7 +11,7 @@
 ----------------------------------------------------------
 
 
-> Deploy Link: [Code Quiz!](https://hayvant.github.io/codequiz/)
+> Deploy Link: [Code Quiz!](https://hayvant.github.io/javascriptquiz/)
 
 
 ![Portfolio Screenshot](https://user-images.githubusercontent.com/89271807/136674780-ad3c4c06-e0ec-474d-b06b-0b7df7e60d53.png)
