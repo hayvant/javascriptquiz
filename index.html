@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Code Quiz!</title>
+</head>
+<body>
+    <div class="container">
+    <header class='titlemain'>Are you a Full Stack Developer?</header>
+        <!-- <main class="Question"> -->
+        <section> 
+
+            <h2>Let's see if you can beat the timer!</h2>
+            <!-- <div id="start">Start Quiz!</div> -->
+            <input type="button" id="startBtn" value="Start" />
+            <h3 id="countdown"></h3>
+            <h2 id="counter"></h2>
+            <div id=questionmark></div>
+
+        </section> 
+
+        <section>
+
+            <div id="quiz-container">
+                <h1 id="questions"></h1>
+                <div id="choices"></div>
+            </div>
+
+        </section>
+
+        <div id="timer">
+
+        <section>
+            <p>Insert initials to save your score!</p>
+            <input id="initials"></input>
+            <button id="save">Save</button>
+
+            <button id="highScoreBtn">Show High Scores!</button>
+            <div id="highscores"></div>
+        </section>
+
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
